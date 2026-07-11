@@ -45,7 +45,7 @@ categorical_features = ["TypeofContact",
                         "Occupation",
                         "Gender",
                         "ProductPitched",
-                        "MaritalStatus"
+                        "MaritalStatus",
                         "Designation"] # complete the code to show list of all categorical feature
 
 # ----------------------------
