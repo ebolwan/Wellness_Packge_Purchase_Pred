@@ -20,7 +20,7 @@ print("Dataset loaded successfully.")
 # ----------------------------
 # Define the target variable
 # ----------------------------
-target = "tourism"  # complete the code to set the name of the column to predict (whether customer purchased the package), 1 if the customer purchased the package, else 0
+target = "ProdTaken"  # complete the code to set the name of the column to predict (whether customer purchased the package), 1 if the customer purchased the package, else 0
 
 # ----------------------------
 # List of numerical features
