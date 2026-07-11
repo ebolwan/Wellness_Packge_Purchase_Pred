@@ -46,7 +46,7 @@ categorical_features = ["TypeofContact",
                         "Occupation",
                         "Gender",
                         "ProductPitched",
-                        "MaritalStatus"
+                        "MaritalStatus",
                         "Designation"]   # complete the code to list all categorical feature names (same as in prep.py)
 
 # Set the class weight to handle class imbalance
